@@ -1,16 +1,9 @@
 # E_Commerce_App
 
-A new Flutter project.
+This is my first flutter project, have built in feature include login and homepage. 
 
-## Getting Started
+## [Watch it on Youtube](https://flutter.dev/docs/get-started/codelab)
 
-This project is a starting point for a Flutter application.
+#### E-Commerce App Final UI
+![project5-min](https://user-images.githubusercontent.com/87288872/148560053-34b9b972-01e3-4149-8a21-7312b4fb6d13.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
