@@ -1,6 +1,6 @@
 # E_Commerce_App
 
-This is my first flutter project, have built in feature include login and homepage. 
+This flutter project, have built in feature include login, register, and homepage. 
 
 ## [Watch it on Youtube](https://youtu.be/HUsZQqQbGV0)
 
